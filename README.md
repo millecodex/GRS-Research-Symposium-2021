@@ -5,7 +5,7 @@ Presently the conference website is hosted on Whova. Full schedule with abstract
 
 <p align="center"><img width="800" alt="GRS-title-slide-Jeff-Nijsse" src="https://user-images.githubusercontent.com/39792005/143323164-a22a30c9-8912-4ca7-ae22-e39c59faffbe.PNG"></p>
 
-# Kinematics Adventures in Desmos
+# Mining GitHub to Identify Open-Source Software Health in Blockchain Projects
 Author: Jeff Nijsse (jeff.nijsse@aut.ac.nz)\
 Department of Computer & Mathematical Sciences, Auckland University of Technology, Auckland, New Zealand
 
