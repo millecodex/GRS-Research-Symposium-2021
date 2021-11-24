@@ -1,25 +1,32 @@
-# GRS-Research-Symposium-2021
-Conference presentation at the 2021 Graduate Research School Symposium at AUT
+# GRS Research Symposium 2021
+Permalink home for my Conference presentation at the 2021 Graduate Research School Symposium at AUT, held in Auckland, New Zealand. Hosted by Auckland University of Technology (online) November 26, 2021. 
 
-Permalink home for our presentation at the Herenga DELTA international conference on the Teaching and Learning of Undergrad Mathematics and Statistics, held in Auckland, New Zealand. Hosted by the University of Auckland (online) November 22-25, 2021. 
+Presently the conference website is hosted on Whova. Full schedule with abstracts can be found [here](https://whova.com/portal/webapp/auotn1_202211/).
 
-Presently the conference website is hosted at https://www.herengadelta.org. Full schedule with abstracts can be found [here](https://www.math.canterbury.ac.nz/~m.langton/herenga_delta_schedule.html).
-
-<p align="center"><img width="400" alt="Herenga_Delta_2021_logo" src="https://user-images.githubusercontent.com/39792005/142928987-39be8fb7-847e-4fc5-9523-b39dfc77601b.PNG"></p>
+<p align="center"><img width="800" alt="GRS-title-slide-Jeff-Nijsse" src="https://user-images.githubusercontent.com/39792005/143323164-a22a30c9-8912-4ca7-ae22-e39c59faffbe.PNG"></p>
 
 # Kinematics Adventures in Desmos
-Authors: Jeff Nijsse (jeff.nijsse@aut.ac.nz), Yik Ching (Josh) Lee (yikching.lee@aut.ac.nz)\
-Department of Mathematical Sciences, Auckland University of Technology, Auckland, New Zealand
+Author: Jeff Nijsse (jeff.nijsse@aut.ac.nz)\
+Department of Computer & Mathematical Sciences, Auckland University of Technology, Auckland, New Zealand
 
 ## Keywords
-desmos, mathematics, physics, kinematics, foundation education
+open-source software, GitHub, blockchain, structural equation modelling
 
 ## Abstract
-This presentation demonstrates the use of Desmos teacher activities to teach concepts in foundation mathematics & physics. Activities have 
+GitHub represents the largest open-source software (OSS) community hosting over 100 million repositories by 56 million developers. Since the rise of Bitcoin [1], blockchain projects have grown dramatically and 84% of the top 200 are hosted on GitHub. Growth inspires many new initiatives and clones, but few projects survive. Identifying healthy projects can assist developers looking to contribute to OSS and researchers seeking innovative teams in addition to reducing fraudulent activity. This presentation is part of a larger ongoing study investigating OSS blockchain performance and health. The hypothesis to be studied is that the health of an OSS project can be determined through publicly available data. This will be investigated by answering the research question: How can factors that influence the health of OSS be identified? The methodology is adapted from a framework for extracting, processing, and analysing OSS [2] that combines eleven variables into a measurement model. Latent variables are introduced to represent the constructs of community engagement, project robustness, and public interest. Statistical analysis methods are employed both for the development and specification of the measurement model and the construction and evaluation of its structural efficacy. Validation is by two mechanisms: confirmatory factor analysis applied to the measurement model and structural equation modelling to estimate the validity of the relationships [3]. In the broader study a tool is to be developed to monitor health and highlight areas for innovation. Preliminary findings indicate that community engagement and project interest are positively correlated to robustness, which, in turn, is expected to be a predictor of software project health. A future hypothesis is that healthy projects can be a leading indicator of innovative technology and practice. If OSS communities and projects can be monitored for health, stake holders can identify areas of strength and weakness, extending to industries beyond blockchain.
+
 ## Link to Presentation Video (YouTube→)
 
+## Link to Presentation Slides
+
 ## References
-Desmos. (2021, August 16). Teaching with Desmos. https://teacher.desmos.com/
+* GitHub, “Empowering Healthy Communities,” 2020. [Online]. Available: https://octoverse.github.com
+* M. Goeminne and T. Mens, “Analyzing ecosystems for open source software developer communities,” in Software Ecosystems: Analyzing and Managing Business Networks in the Software Industry, no. 2013, S. Jansen, Ed. 2013, pp. 247–275.
+* J. F. Hair Jr., W. C. Black, B. J. Babin, and R. E. Anderson, Multivariate Data Analysis, Seventh. Essex: Pearson Education Limited, 2014.
+* Rosseel, Y. lavaan: An R Package for Structural Equation Modeling. In Journal of Statistical Software (Vol. 48, Issue 2, pp. 1–36). 2012. http://www.jstatsoft.org/v48/i02/ 
+* J.-F. Schrape, “Open Source Projects as Incubators of Innovation: From Niche Phenomenon to Integral Part of the Software Industry,” SSRN Electron. J., 2017, doi: 10.2139/ssrn.2977352.
+* S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System,” 2008. https://bitcoin.org/bitcoin.pdf 
+
 
 
 
