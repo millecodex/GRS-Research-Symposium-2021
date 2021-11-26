@@ -28,7 +28,8 @@ In the broader study a tool is to be developed to monitor health and highlight a
 * GitHub, “Empowering Healthy Communities,” 2020. [Online]. Available: https://octoverse.github.com
 * M. Goeminne and T. Mens, “Analyzing ecosystems for open source software developer communities,” in Software Ecosystems: Analyzing and Managing Business Networks in the Software Industry, no. 2013, S. Jansen, Ed. 2013, pp. 247–275.
 * J. F. Hair Jr., W. C. Black, B. J. Babin, and R. E. Anderson, Multivariate Data Analysis, Seventh. Essex: Pearson Education Limited, 2014.
-* Rosseel, Y. lavaan: An R Package for Structural Equation Modeling. In Journal of Statistical Software (Vol. 48, Issue 2, pp. 1–36). 2012. http://www.jstatsoft.org/v48/i02/ 
+* Y. Rosseel, "lavaan: An R Package for Structural Equation Modeling", In Journal of Statistical Software (Vol. 48, Issue 2, pp. 1–36). 2012. http://www.jstatsoft.org/v48/i02/ 
+* Y. Rosseel, “Structural equation modeling with lavaan,” Geneve, 2020. https://users.ugent.be/~yrosseel/lavaan/geneve2020/lavaan_oneday_geneve2020.pdf 
 * J.-F. Schrape, “Open Source Projects as Incubators of Innovation: From Niche Phenomenon to Integral Part of the Software Industry,” SSRN Electron. J., 2017, doi: 10.2139/ssrn.2977352.
 * S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System,” 2008. https://bitcoin.org/bitcoin.pdf 
 
