@@ -22,6 +22,7 @@ In the broader study a tool is to be developed to monitor health and highlight a
 ## Link to Presentation Video (YouTube→)
 
 ## Link to Presentation Slides
+[GitHub_GRS_symposium_slides_Nijsse.pdf](GitHub_GRS_symposium_slides_Nijsse.pdf)
 
 ## References
 * GitHub, “Empowering Healthy Communities,” 2020. [Online]. Available: https://octoverse.github.com
