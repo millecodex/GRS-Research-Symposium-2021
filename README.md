@@ -20,7 +20,7 @@ This presentation is part of a larger ongoing study investigating OSS blockchain
 In the broader study a tool is to be developed to monitor health and highlight areas for innovation. Preliminary findings indicate that community engagement and project interest are positively correlated to robustness, which, in turn, is expected to be a predictor of software project health. A future hypothesis is that healthy projects can be a leading indicator of innovative technology and practice. If OSS communities and projects can be monitored for health, stake holders can identify areas of strength and weakness, extending to industries beyond blockchain.
 
 ## Link to Presentation Video (YouTube→)
-https://youtu.be/ofwpx2h7Fm8
+[<img width="600" alt="youTube_Thumb_Nijsse" src="https://user-images.githubusercontent.com/39792005/144143709-a89d36c4-713e-437a-9a21-4a2bd5e24034.PNG">](https://youtu.be/ofwpx2h7Fm8)
 
 ## Link to Presentation Slides
 [GitHub_GRS_symposium_slides_Nijsse.pdf](GitHub_GRS_symposium_slides_Nijsse.pdf)
