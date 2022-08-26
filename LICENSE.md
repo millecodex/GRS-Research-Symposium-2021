@@ -1,4 +1,4 @@
-### Canonical link: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+### Canonical link: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) 
 ---
 # Attribution 4.0 International
 
