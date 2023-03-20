@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this presentation, please cite it as below."
+authors:
+- family-names: "Nijsse"
+  given-names: "Jeff"
+  orcid: "https://orcid.org/0000-0002-4199-7201"
+title: "Mining GitHub to Identify Open-Source Software Health in Blockchain Projects"
+date-released: 2021-11-26
+url: "https://github.com/millecodex/GRS-Research-Symposium-2021"
+type: conference
